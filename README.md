@@ -36,12 +36,25 @@
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
+  
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a> 
+
+  
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
+
+  <a href="c" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=512&id=40670&format=png" alt="java" width="40" height="40"/> 
+  </a> 
+  
+
+ <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://static-00.iconduck.com/assets.00/html-5-icon-224x256-1b5ud2sy.png" alt="java" width="40" height="40"/> 
+  </a> 
+  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
@@ -51,10 +64,28 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
+
+
+  <a href="git" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+  
+  <a href="github" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="mysql" width="40" height="40"/> 
+  </a>
+
+  <a href="uiux" target="_blank" rel="noreferrer"> 
+    <img src="https://uiuxassets.com/media/site/d47f7ac79a-1631092114/icon-512x512.png" alt="mysql" width="40" height="40"/> 
+  </a>
+  
+  
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
+
+
+
 
 <!-- GitHub Stats -->
 <p align="center">
