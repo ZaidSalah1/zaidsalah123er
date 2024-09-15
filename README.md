@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **JavaScript**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://zaidsalah123er.github.io/Portfolio/)
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://linkedin.com/in/zaid emad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.facebook.com/zaid.salah.77312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
@@ -24,7 +24,7 @@
   <a href="https://www.leetcode.com/zaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
