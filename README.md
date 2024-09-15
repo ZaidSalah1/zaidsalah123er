@@ -28,10 +28,10 @@
 <h2 align="center">Connect with me:</h2>
 <p align="center">
     <a href="https://zaidsalah123er.github.io/Portfolio/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" alt="LinkedIn" height="30" width="40" /></a>
+    <a href="https://leetcode.com/u/iiOzAs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/zaid emad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.facebook.com/zaid.salah.77312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://instagram.com/iiozas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/zaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
