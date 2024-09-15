@@ -78,6 +78,10 @@
     <img src="https://uiuxassets.com/media/site/d47f7ac79a-1631092114/icon-512x512.png" alt="mysql" width="40" height="40"/> 
   </a>
   
+
+  <a href="uiux" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="mysql" width="40" height="40"/> 
+  </a>
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
